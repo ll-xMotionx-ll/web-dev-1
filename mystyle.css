@@ -41,3 +41,14 @@ body {
 .info {
   color: #0066cc;
 }
+.project-container {
+  padding: 10px;
+  width: 400px;
+  background-color: #f1f8fc;
+  border: 1px solid #0066cc;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
