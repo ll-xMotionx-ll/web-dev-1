@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="textbook.xsl"?>
+<textbooks>
+    <textbook>
+        <title>Modern Software Engineering</title>
+        <authors>
+            <author>
+                <firstName>David</firstName>
+                <lastName>Farley</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Addison-Wesley Professional</name>
+            <website>https://www.pearson.com/</website>
+        </publisher>
+        <Year-of-Publication>2021</Year-of-Publication>
+        <ISBN>978-0137314911</ISBN>
+        <book-specific-website></book-specific-website>
+        <edition>1</edition>
+        <cover-type>Paperback</cover-type>
+    </textbook>
+    <textbook>
+        <title>Internet and World Wide Web: How to Program with CD-ROM BK and CD ROM</title>
+        <authors>
+            <author>
+                <firstName>Harvey M.</firstName>
+                <lastName>Deitel</lastName>
+            </author>
+            <author>
+                <firstName>Paul J.</firstName>
+                <lastName>Deitel</lastName>
+            </author>
+            <author>
+                <firstName>A. B.</firstName>
+                <lastName>Goldberg</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name> Prentice Hall</name>
+            <website>www.savvas.com</website>
+        </publisher>
+        <Year-of-Publication>2003</Year-of-Publication>
+        <ISBN>978-0131450912</ISBN>
+        <book-specific-website></book-specific-website>
+        <edition>3</edition>
+        <cover-type>Paperback</cover-type>
+    </textbook>
+    <textbook>
+        <title>Oggi In Italia</title>
+        <authors>
+            <author>
+                <firstName>Franca</firstName>
+                <lastName> Merlonghi</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Heinle</name>
+            <website></website>
+        </publisher>
+        <Year-of-Publication>2011</Year-of-Publication>
+        <ISBN>978-1111830489</ISBN>
+        <book-specific-website></book-specific-website>
+        <edition>9</edition>
+        <cover-type>Loose leaf</cover-type>
+    </textbook>
+</textbooks>
